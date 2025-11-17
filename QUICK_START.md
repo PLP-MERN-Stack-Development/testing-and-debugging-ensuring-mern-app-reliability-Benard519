@@ -142,5 +142,4 @@ npm run test:debug
 
 ---
 
-**Ready for GitHub Classroom Submission!** 🎉
 
