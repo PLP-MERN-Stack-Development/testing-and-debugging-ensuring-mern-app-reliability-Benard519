@@ -362,13 +362,4 @@ Open `index.html` in a browser to view detailed coverage reports.
 
 This project is created for educational purposes as part of the MERN Stack Development course.
 
-## 👤 Author
-
-Week 6 Assignment - MERN Testing and Debugging
-
----
-
-**Ready for GitHub Classroom Submission** ✅
-
-All tests are passing, code coverage meets requirements, and the project follows MERN best practices.
 
